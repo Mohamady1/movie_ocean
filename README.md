@@ -3,13 +3,21 @@
 ## Features
 
 Movies DB With Simple API.
+
 movies arranged from A-Z
+
 click on movie to see:
+
 1- Year
+
 2- Runtime
+
 3- Genres
+
 4- imdbRating
+
 5- Actors
+
 6- Movie trailer
 
 ## Available Scripts
